@@ -2,10 +2,12 @@
 
 ![Image of Combat](https://github.com/minyilvtw/2D-Action-Platformer-WebGL/blob/master/dungeon%20attacks.gif)
 
+There are systems like wall climb, double jump, combo attacks, SFX, and combat impact.
 
+
+## Play
 https://minyilvtw.github.io/2D-Action-Platformer-WebGL/
 
-There are systems like wall climb, double jump, combo attacks, SFX, and combat impact.
 
 ## Basic Controls
 ```
